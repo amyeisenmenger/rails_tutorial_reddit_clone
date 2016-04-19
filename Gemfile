@@ -28,6 +28,8 @@ gem 'devise'
 gem 'bootstrap-sass'
 gem 'acts_as_votable', '~> 0.10.0'
 
+gem 'simple_form', '~> 3.2', '>= 3.2.1'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
